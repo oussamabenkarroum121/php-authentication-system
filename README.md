@@ -39,13 +39,10 @@ TP_Exercices/
 ├── profile.php
 ├── logout.php
 │
-├── StyleSignUp.css
-├── StyleForgot.css
-├── StyleHome.css
-├── StyleProfile.css
+├── Auth.css
 │
 ├── Valorant-Emblem-768x432.png
-├── best-valorant-background-1920-x-1080-p52r4dn6ei7yrv5r.jpg
+├── Guerrière cyberpunk sous la lune rouge.jpg
 │
 └── README.md
 ```
