@@ -51,7 +51,7 @@ if( $valid === 1 ){
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Sign Up  Page </title>
-  <link href="StyleSignUp.css" rel="stylesheet">
+<link rel="stylesheet" href="Auth.css">
 </head>
 <body class="signup-page">
      <form action="" method="POST" class="signup-form">

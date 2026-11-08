@@ -23,7 +23,7 @@ if (isset($_POST["Submit"])) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Forgot Password</title>
-    <link rel="stylesheet" href="StyleForgot.css">
+<link rel="stylesheet" href="Auth.css">
 </head>
 <body class="forgot-page">
     <form action="" method="POST" class="forgot-form">
