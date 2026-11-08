@@ -1,0 +1,123 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    min-height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("best-valorant-background-1920-x-1080-p52r4dn6ei7yrv5r.jpg") center / cover no-repeat;
+    color: white;
+}
+
+header {
+    width: 100%;
+    padding: 20px 7%;
+    background: rgba(0,0,0,0.75);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h2 {
+    font-size: 22px;
+}
+
+nav {
+    display: flex;
+    gap: 25px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+nav a:hover {
+    color: #ff4655;
+}
+
+main {
+    max-width: 900px;
+    margin: 70px auto;
+    padding: 20px;
+}
+
+.welcome {
+    margin-bottom: 30px;
+}
+
+.welcome h1 {
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+
+.welcome p {
+    color: #cccccc;
+    font-size: 14px;
+}
+
+.account, .features {
+    background: rgba(255,255,255,0.95);
+    color: #171717;
+    padding: 25px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.account h2, .features h2 {
+    margin-bottom: 18px;
+    font-size: 19px;
+}
+
+.account p {
+    font-size: 13px;
+    margin-bottom: 8px;
+}
+
+.account strong {
+    color: #1877f2;
+    font-size: 14px;
+}
+
+.account .status {
+    margin-top: 15px;
+    color: green;
+}
+
+.features a {
+    display: inline-block;
+    background: #1877f2;
+    color: white;
+    text-decoration: none;
+    padding: 11px 18px;
+    border-radius: 5px;
+    font-size: 12px;
+    margin: 5px;
+}
+
+.features a:hover {
+    background: #d92408;
+}
+
+@media (max-width: 600px) {
+    header {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    nav {
+        gap: 15px;
+    }
+
+    main {
+        margin: 35px auto;
+    }
+
+    .welcome h1 {
+        font-size: 27px;
+    }
+}
