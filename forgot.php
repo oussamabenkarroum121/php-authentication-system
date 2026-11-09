@@ -27,7 +27,7 @@ if (isset($_POST["Submit"])) {
 </head>
 <body class="forgot-page">
     <form action="" method="POST" class="forgot-form">
-        <img src="Valorant-Emblem-768x432.png" alt="Valorant Logo">
+      <img src="assets/Valorant-Emblem-768x432.png" alt="Valorant Logo">
         <h1>Forgot Password?</h1>
         <p>Don't worry! It happens. Enter your email address to recover your account.</p>
         <label for="email">Email Address</label>

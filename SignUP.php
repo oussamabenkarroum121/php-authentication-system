@@ -55,7 +55,7 @@ if( $valid === 1 ){
 </head>
 <body class="signup-page">
      <form action="" method="POST" class="signup-form">
-    <img src="Valorant-Emblem-768x432.png" >
+    <img src="assets/Valorant-Emblem-768x432.png" alt="Valorant Logo">
     <h1>Create An Account</h1>
     <p>join us start managing your editorial account  </p>
     <label for="Full_Name">Full Name</label>

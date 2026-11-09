@@ -15,7 +15,7 @@ body {
     color: white;
     background:
         linear-gradient(rgba(0, 0, 0, 0.78), rgba(0, 0, 0, 0.88)),
-        url("C:\xampp\htdocs\TP_Exercices\assets\Guerrière cyberpunk sous la lune rouge.png");
+        url("assets/Guerrière cyberpunk sous la lune rouge.png");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;

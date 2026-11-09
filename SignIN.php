@@ -31,7 +31,7 @@
 </head>
 <body class="signup-page">
     <form action="" method="POST">
-        <img src="Valorant-Emblem-768x432.png" alt="Valorant Logo">
+      <img src="assets/Valorant-Emblem-768x432.png" alt="Valorant Logo">
         <h1>Login To Your Account</h1>
         <p>Enter Your Details to access your account</p>
         <label for="email">Email Address</label>
